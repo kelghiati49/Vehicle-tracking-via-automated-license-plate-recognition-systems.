@@ -1,5 +1,5 @@
 # Vehicle-tracking-via-automated-license-plate-recognition-systems.
-![Aperçu du projet](assests/cartrackingsys.gif)  
+![Aperçu du projet](assets/cartrackingsys.gif)  
 
 Notre projet consiste à suivre les véhicules en détectant les plaques d'immatriculation grâce à un filtre de Kalman, avec les étapes suivantes :
 - Yolo pour détecter la plaque dans l'image.
